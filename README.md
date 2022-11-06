@@ -3,7 +3,7 @@
 
 Описание и запуск Screen Research.
 
-Описание
+Описание.
 Screen Research предназначен для распознования и сравнения текстовой информации.
 При выделении курсором интересующей области экрана программа Screen Research производит распознование
 текста и сохранение информации из выделенной области в text1.txt. При повторном выделении интересуемой 
@@ -30,7 +30,7 @@ Screen Research произведёт распознование текста в�
 
 Description and launch of Screen Research.
 
-Description
+Description.
 Screen Research is designed to recognize and compare text information.
 When the cursor selects an area of interest on the screen, the Screen Research program recognizes
 text and saves information from the selected area to text1.txt . When re-selecting
